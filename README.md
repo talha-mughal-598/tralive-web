@@ -7,3 +7,10 @@ The Tralive’s structure is mobile-ready, cross-browser compatible and retina-f
 Responsive design using HTML and CSS <br />
 font-family: "Roboto", sans-serif; <br />
 font-size: 16px;
+
+## Design Templates
+### Desktop Design
+![Travel-agency](https://github.com/talha-mughal-598/tralive/assets/80817989/09f4b61a-5ec6-4e53-bec7-d70775b75d0b)
+
+### Mobile Design
+![Travel-agency-mobile](https://github.com/talha-mughal-598/tralive/assets/80817989/fa4b4f59-7218-4ab5-9240-c5c88d71a88e)
